@@ -20,5 +20,8 @@ Used Tools:
 - Spring Boot 2.1.3
 - PostgreSQL
 
+References:
+- JAVA PERSISTENCE WITH HIBERNATE - [Source Code](http://jpwh.org/)
+
 
 Happy coding!
