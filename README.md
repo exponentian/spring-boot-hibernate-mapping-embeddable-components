@@ -1,0 +1,1 @@
+# spring-boot-hibernate-mapping-embeddable-components
